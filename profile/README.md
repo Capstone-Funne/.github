@@ -14,3 +14,6 @@ The android application that we designed with the theme of human health and well
 - (**CC**) `C350DSY3018` | **Puan Abidah Nitisara** – Universitas Sumatera Utara
 - (**MD**) `A028DSX1163` | **I Putu Wira Budhi Guna Ariyasa** – Institut Teknologi dan Bisnis STIKOM Bali
 - (**MD**) `A350DSY1709` | **Zefania Agustina Lumbangaol** – Universitas Sumatera Utara
+
+## App Screenshots
+<img src="./assets/splash.png" width=200 height=500>
