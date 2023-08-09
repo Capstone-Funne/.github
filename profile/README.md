@@ -16,4 +16,8 @@ The android application that we designed with the theme of human health and well
 - (**MD**) `A350DSY1709` | **Zefania Agustina Lumbangaol** – Universitas Sumatera Utara
 
 ## App Screenshots
-<img src="./assets/splash.png" width=200 height=500>
+<img src="./assets/splash.png" width=200 height=400>  <img src="./assets/onboarding.png" width=200 height=400>  <img src="./assets/login.png" width=200 height=400>
+<img src="./assets/register.png" width=200 height=400>  <img src="./assets/home.png" width=200 height=400>  <img src="./assets/scan.png" width=200 height=400>
+<img src="./assets/camera.png" width=200 height=400>  <img src="./assets/scan_image.png" width=200 height=400>  <img src="./assets/analyze.png" width=200 height=400>
+<img src="./assets/result.png" width=200 height=400>  <img src="./assets/suggestion.png" width=200 height=400>  <img src="./assets/profile.png" width=200 height=400>
+<img src="./assets/history.png" width=200 height=400>
